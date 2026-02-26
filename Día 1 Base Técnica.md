@@ -98,8 +98,8 @@ C) $(\sqrt{1+x})$
 
 Si haces esto bien:
 
-✔ Mañana construiremos (T_2(x)) directamente
-✔ No cometerás errores técnicos
-✔ Trabajaremos ya a nivel de examen
+✔ Mañana construiremos (T_2(x)) directamente\
+✔ No cometerás errores técnicos\
+✔ Trabajaremos ya a nivel de examen\
 
 -
