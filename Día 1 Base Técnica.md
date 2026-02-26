@@ -71,10 +71,10 @@ Para cada función calcula:
 
 ---
 
-11. (f(x)=e^x)
-12. (f(x)=\sin x)
-13. (f(x)=\sqrt{1+x})
-14. (f(x)=e^x\cos x)
+11. $(f(x)=e^x)$
+12. $(f(x)=\sin x)$
+13. $(f(x)=\sqrt{1+x})$
+14. $(f(x)=e^x\cos x)$
 
 ---
 
@@ -88,9 +88,9 @@ Calcula:
 
 para:
 
-A) (e^x)
-B) (\sin x)
-C) (\sqrt{1+x})
+A) $(e^x)$
+B) $(\sin x)$
+C) $(\sqrt{1+x})$
 
 ---
 
