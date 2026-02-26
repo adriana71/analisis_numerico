@@ -57,15 +57,15 @@ Para Taylor normalmente usamos solo seno y coseno.
 ## 📌 Regla del producto
 
 Si:
-$$
+
 f(x)=u(x)v(x)
-$$
+
 
 Entonces:
 
-$$
+
 f'(x)=u'v + uv'
-$$
+
 
 ⚠ Error típico: olvidar uno de los dos términos.
 
@@ -74,9 +74,8 @@ $$
 ## 📌 Regla del cociente
 
 Si:
-$$
-f(x)=\frac{u}{v}
-$$
+$$f(x)=\frac{u}{v}$$
+
 
 Entonces:
 
@@ -91,9 +90,9 @@ $$
 ## 📌 Regla de la cadena (MUY IMPORTANTE)
 
 Si:
-$$
+
 f(x)=g(h(x))
-$$
+
 
 Entonces:
 
@@ -227,7 +226,3 @@ Para dominar Taylor necesitas:
 ✔ Producto sólido
 ✔ Cadena sólida
 ✔ Capacidad de derivar dos veces sin confundirte
-
----
-
-Si quieres, ahora hacemos un mini-test rápido de 5 preguntas para verificar que quedó claro antes de pasar al Bloque 3.
