@@ -1,5 +1,3 @@
-Perfecto 💪 entonces comenzamos oficialmente con:
-
 # 📘 DÍA 1 – Base técnica sólida para Taylor
 
 (Enfoque Análisis Numérico)
@@ -15,21 +13,15 @@ Hoy no veremos Taylor todavía. Hoy construimos la herramienta.
 
 Primero debes poder escribir sin dudar:
 
-[
-\frac{d}{dx}\e^x = \e^x
-]
-[
-\frac{d}{dx}\sin x = \cos x
-]
-[
-\frac{d}{dx}\cos x = -\sin x
-]
-[
-\frac{d}{dx}\ln(1+x) = \frac{1}{1+x}
-]
-[
-\frac{d}{dx}(1+x)^n = n(1+x)^{n-1}
-]
+$\frac{d}{dx}e^x = e^x$
+
+$\frac{d}{dx}\sin x = \cos x$
+
+$\frac{d}{dx}\cos x = -\sin x$
+
+$\frac{d}{dx}\ln(1+x) = \frac{1}{1+x}$
+
+$\frac{d}{dx}(1+x)^n = n(1+x)^{n-1}$
 
 ---
 
@@ -37,11 +29,11 @@ Primero debes poder escribir sin dudar:
 
 Deriva:
 
-1. (f(x)=e^x)
-2. (f(x)=\sin x)
-3. (f(x)=\cos x)
-4. (f(x)=\ln(1+x))
-5. (f(x)=(1+x)^4)
+1. $(f(x)=e^x)$
+2. $(f(x)=\sin x)$
+3. $(f(x)=\cos x)$
+4. $(f(x)=\ln(1+x))$
+5. $(f(x)=(1+x)^4)$
 
 Escríbelos y mándamelos. Luego seguimos.
 
@@ -51,23 +43,20 @@ Escríbelos y mándamelos. Luego seguimos.
 
 Recordatorio:
 
-[
-(uv)' = u'v + uv'
-]
+$(uv)' = u'v + uv'$
 
-[
-(f(g(x)))' = f'(g(x))g'(x)
-]
+
+$(f(g(x)))' = f'(g(x))g'(x)$
 
 ---
 
 ## ✏️ Ejercicios 6–10
 
-6. (f(x)=x e^x)
-7. (f(x)=x\sin x)
-8. (f(x)=e^{3x})
-9. (f(x)=\sin(2x))
-10. (f(x)=\sqrt{1+x})
+6. $(f(x)=x e^x)$
+7. $(f(x)=x\sin x)$
+8. $(f(x)=e^{3x})$
+9. $(f(x)=\sin(2x))$
+10. $(f(x)=\sqrt{1+x})$
 
 ---
 
@@ -113,9 +102,4 @@ Si haces esto bien:
 ✔ No cometerás errores técnicos
 ✔ Trabajaremos ya a nivel de examen
 
----
-
-Empezamos paso a paso.
-
-Resuelve primero los ejercicios 1–5 y escríbelos aquí.
-Te corrijo inmediatamente. 💪
+-
