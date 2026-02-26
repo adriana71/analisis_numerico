@@ -15,12 +15,12 @@ Hoy no veremos Taylor todavía. Hoy construimos la herramienta.
 
 Primero debes poder escribir sin dudar:
 
-[
-\frac{d}{dx}e^x = e^x
-]
-[
-\frac{d}{dx}\sin x = \cos x
-]
+$$
+frac{d}{dx}e^x = e^x
+$$
+$$
+frac{d}{dx}sin x = cos x
+$$
 [
 \frac{d}{dx}\cos x = -\sin x
 ]
